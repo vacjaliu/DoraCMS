@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by dora on 2015/4/8.
  * 创建数据库连接
  * 该模块只会被加载一次
@@ -69,7 +69,7 @@ module.exports = {
 //    本地缓存设置
     redis_host: '127.0.0.1',
     redis_port: 6379,
-    redis_psd : '',
+    redis_psd : 'mikeliu',
     redis_db: 0,
 
 //    邮件相关设置
